@@ -3,10 +3,8 @@
 
 ## 📌 Skills
 <img src="https://img.shields.io/badge/Html-white?style=flat-square&logo=html5&logoColor=f06529"/>
-<img src="https://img.shields.io/badge/CSS3-white
-?style=flat-square&logo=CSS3&logoColor=1572b6"/>
-<img src="https://img.shields.io/badge/Javascript-white
-?style=flat-square&logo=javascript&logoColor=F0DB4F"/>
+<img src="https://img.shields.io/badge/CSS3-white?style=flat-square&logo=CSS3&logoColor=1572b6"/>
+<img src="https://img.shields.io/badge/Javascript-white?style=flat-square&logo=javascript&logoColor=F0DB4F"/>
 <img src="https://img.shields.io/badge/Python-white?style=flat-square&logo=Python&logoColor=306998"/>
 
 ## 🏆 My Activity
