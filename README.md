@@ -7,7 +7,7 @@
 ## 🏆 My Activity
 * I am a third year political science and international relations student, at Khyung Hee University (KHU).
 * I am currently working as an marketing manager in WeDataLab (corp.)
-* I am currently working as a translater (ENG ↔ KOR)
+* I am currently working as a volunteering translator at <i>COMPASSION</i> (ENG ↔ KOR)
 
 ## 🫶 I'm interested in ...
 - Web publishing
