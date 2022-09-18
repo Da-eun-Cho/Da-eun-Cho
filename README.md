@@ -12,7 +12,7 @@
 ## 🫶 I'm interested in ...
 - Web publishing
 - Front-end Engineering
-- Data crowling
+- Data crawling
 - Open-source project contribution
 
 ### 📞 Find me at  
